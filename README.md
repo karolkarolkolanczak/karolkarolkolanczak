@@ -1,4 +1,4 @@
-### Hi there 👋
+I am Karol from Poland, Full-stack developer Java  + React. 
 
 <!--
 **karolkarolkolanczak/karolkarolkolanczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
