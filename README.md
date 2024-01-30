@@ -1,4 +1,4 @@
-Hi 👋 My name is Peter
+Hi 👋 My name is Karol Kolanczak
 ======================
 
 Full - Stack developer Java + React
@@ -6,7 +6,7 @@ Full - Stack developer Java + React
 
 * 🌍  I'm based in Poland
 
-### Skills
+--- Skills ---
 
 
 <p align="left">
@@ -16,4 +16,4 @@ Full - Stack developer Java + React
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/hh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/karol-k-7699a19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
